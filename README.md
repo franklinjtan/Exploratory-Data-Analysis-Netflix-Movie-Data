@@ -1,8 +1,10 @@
 # Exploratory Data Analysis: Netflix Movie Data
-* Created a set of analyses and data visualizations that disprove the statement that Netflix movies are getting longer.
+* Created a set of analyses and data visualizations that explors whether Netflix movies are getting longer or shorter
 * Used matplotlib, pandas, seaborn to generate line charts, bar charts, histograms, box plots, scatterplots, and groupedby dataframes
 
 ## Screenshot of Line Plot and Scatter Plot Generated
+![](/images/scatterplot-netflix.png)
+![](/images/lineplot-netflix.png)
 
 ## Inspiration
 * Datacamp Project: Investigating Netflix Movies and Guest Stars in The Office
